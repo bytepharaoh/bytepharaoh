@@ -22,10 +22,6 @@ Here on my GitHub you’ll find:
 - Backend APIs and system projects  
 - DevOps and CI/CD practice projects  
 - Experiments and learning-focused repositories  
-
 Each project reflects my learning journey and hands-on experience.
-
-## 📫 Get in touch
-- GitHub: [https://github.com/bytepharaoh](https://github.com/bytepharaoh)
 
 Thanks for visiting my profile 🙂
