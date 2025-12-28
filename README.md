@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ziad 👋
 
-<!--
-**bytepharaoh/bytepharaoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** who enjoys building **backend systems, APIs, and scalable software (maybe some DevOps)**.
 
-Here are some ideas to get you started:
+I like understanding how things work under the hood — from writing clean code, to working with databases, containers, and automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I work with
+- **Languages:** Python, JavaScript, C++, Bash  
+- **Backend:** REST APIs, authentication, backend architecture  
+- **Databases:** PostgreSQL, SQL  
+- **DevOps & Tools:** Docker, GitHub Actions (CI/CD), Git  
+- **Testing:** Pytest, Jest  
+
+---
+
+## 🚀 What I’m focused on
+- Building **production-ready backend projects**
+- Learning how to design **scalable and reliable systems**
+- Experimenting with **AI and new technologies**
+- Improving my problem-solving and software engineering skills
+
+---
+
+## 📂 Projects
+Here on my GitHub you’ll find:
+- Backend APIs and system projects  
+- DevOps and CI/CD practice projects  
+- Experiments and learning-focused repositories  
+
+Each project reflects my learning journey and hands-on experience.
+
+---
+
+## 📫 Get in touch
+- GitHub: [https://github.com/bytepharaoh](https://github.com/bytepharaoh)
+
+Thanks for visiting my profile 🙂
