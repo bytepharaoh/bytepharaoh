@@ -1,27 +1,33 @@
 # Hi, I'm Ziad 👋
 
-I'm a **Computer Science student** who enjoys building **backend systems, APIs, and scalable software (maybe some DevOps)**.
+Computer Science student focused on backend engineering, distributed systems, and production-minded software design.
 
-I like understanding how things work under the hood — from writing clean code, to working with databases, containers, and automation tools.
+I care about understanding how systems are built, not just making them work. That means learning why certain architectural decisions are made, what trade-offs they introduce, and how reliable systems are designed to behave under real conditions.
 
 ## 🔧 What I work with
-- **Languages:** Python, JavaScript, C++, Bash  
-- **Backend:** REST APIs, authentication, backend architecture  
-- **Databases:** PostgreSQL, SQL  
-- **DevOps & Tools:** Docker, GitHub Actions (CI/CD), Git  
-- **Testing:** Pytest, Jest  
 
-## 🚀 What I’m focused on
-- Building **production-ready backend projects**
-- Learning how to design **scalable and reliable systems**
-- Experimenting with **AI and new technologies**
-- Improving my problem-solving and software engineering skills
+**Languages:** Go, Python, JavaScript, C++, Bash, SQL
+
+**Backend:** Django , REST APIs, gRPC, WebSockets, microservices architecture , authentication
+
+**Databases:** PostgreSQL, MongoDB
+
+**Messaging:** RabbitMQ, event-driven architecture
+
+**DevOps and Infrastructure:** Docker, Kubernetes, GitHub Actions, Git
+
+**Testing:** Unit testing, integration testing, end-to-end testing
+
+## 🚀 What I’m building toward
+
+I’m focused on backend systems that are production-grade, not just functional:
+systems that are observable, testable, maintainable, and designed to handle failure gracefully.
+
+Right now I’m working deeply on distributed systems in Go, covering service boundaries, synchronous and asynchronous communication, real-time updates, messaging workflows, and cloud-native deployment patterns.
 
 ## 📂 Projects
-Here on my GitHub you’ll find:
-- Backend APIs and system projects  
-- DevOps and CI/CD practice projects  
-- Experiments and learning-focused repositories  
-Each project reflects my learning journey and hands-on experience.
 
-Thanks for visiting my profile 🙂
+Most of what you’ll find here is backend and infrastructure work:
+APIs, distributed systems, CI/CD pipelines, DevOps workflows, and architecture-driven projects.
+
+Each project is built with an emphasis on engineering decisions, system design, and operational thinking, not just feature delivery.
