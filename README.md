@@ -90,9 +90,11 @@ Deadlock-safe money transfers via consistent account ordering in PostgreSQL tran
 **This week I spent time on:**
 
 <!--START_SECTION:waka-->
+
 ```txt
-No activity tracked yet
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
